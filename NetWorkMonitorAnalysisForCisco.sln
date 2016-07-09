@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetWorkMonitorAnalysisForCisco", "NetWorkMonitorAnalysisForCisco\NetWorkMonitorAnalysisForCisco.csproj", "{E5D6D1DE-B8EB-47E2-AB85-A72644E30D11}"
 EndProject
@@ -14,6 +14,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetWorkMonitor", "NetWorkMonitor\NetWorkMonitor.csproj", "{69AB6768-EDCA-4F19-9523-1EE6D21A9CD6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetWorkAnalysis", "NetWorkAnalysis\NetWorkAnalysis.csproj", "{8E21BC65-49FD-48E7-A8E1-4E32292C7621}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetWorkShellServer", "NetWorkShellServer\NetWorkShellServer.csproj", "{318D57E8-9C6E-4598-ADC3-4B5FAD0D3719}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetWorkTest", "NetWorkTest\NetWorkTest.csproj", "{3B3398B4-9A47-4708-BDF1-C20D4166F733}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{8E21BC65-49FD-48E7-A8E1-4E32292C7621}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E21BC65-49FD-48E7-A8E1-4E32292C7621}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E21BC65-49FD-48E7-A8E1-4E32292C7621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{318D57E8-9C6E-4598-ADC3-4B5FAD0D3719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{318D57E8-9C6E-4598-ADC3-4B5FAD0D3719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{318D57E8-9C6E-4598-ADC3-4B5FAD0D3719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{318D57E8-9C6E-4598-ADC3-4B5FAD0D3719}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B3398B4-9A47-4708-BDF1-C20D4166F733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3398B4-9A47-4708-BDF1-C20D4166F733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3398B4-9A47-4708-BDF1-C20D4166F733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3398B4-9A47-4708-BDF1-C20D4166F733}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
