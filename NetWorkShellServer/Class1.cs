@@ -8,5 +8,6 @@ namespace NetWorkShellServer
 {
     public class Class1
     {
+
     }
 }
